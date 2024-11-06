@@ -1,0 +1,52 @@
+
+[cursor]
+blink_interval = 550
+unfocused_hollow = false
+thickness = 0.15
+
+[cursor.style]
+blinking = "On"
+shape = "Block"
+
+[selection]
+save_to_clipboard = true
+
+[window]
+ decorations = "none"
+dynamic_title = true
+# opacity = 1
+opacity = 0.90
+
+dynamic_padding = true
+[window.padding]
+x = 4
+y = 4
+[scrolling]
+history = 10000
+multiplier = 3
+
+[bell]
+animation = "Linear"
+duration = 0
+command = { program = "paplay", args = [
+  "/usr/share/sounds/freedesktop/stereo/dialog-error.oga",
+] }
+
+[general]
+live_config_reload = true
+#   █████╗ ██╗      █████╗  ██████╗██████╗ ██╗████████╗████████╗██╗   ██╗
+#  ██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗██║╚══██╔══╝╚══██╔══╝╚██╗ ██╔╝
+#  ███████║██║     ███████║██║     ██████╔╝██║   ██║      ██║    ╚████╔╝
+#  ██╔══██║██║     ██╔══██║██║     ██╔══██╗██║   ██║      ██║     ╚██╔╝
+#  ██║  ██║███████╗██║  ██║╚██████╗██║  ██║██║   ██║      ██║      ██║
+#  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝      ╚═╝
+
+import = [
+  "~/.config/alacritty/fonts.toml",
+  # "~/.config/alacritty/themes/rose_pine_moon.toml",
+  # "~/.config/alacritty/themes/eldritch.toml",
+
+  # "~/.config/alacritty/fonts.toml",
+  "~/.config/alacritty/theme.toml",  # Load the active themes
+
+]

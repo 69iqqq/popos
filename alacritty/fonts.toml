@@ -1,0 +1,25 @@
+[font]
+size = 15
+builtin_box_drawing = true
+
+
+normal = { family = "JetBrainsMono NF", style = "Regular" }
+# bold = { family = "JetBrainsMono NF", style = "Bold" }
+# italic = { family = "JetBrainsMono NF", style = "Italic" }
+# bold_italic = { family = "JetBrainsMono NF", style = "Bold Italic" }
+# normal = { family = "Firacode Nerd Font", style = "Regular" }
+# normal = { family = "DejaVuSansM Nerd Font", style = "Regular" }
+# normal = { family = "Source Code Pro", style = "Regular" }
+# normal = { family = "Cascadia Code NF", style = "Regular" }
+# normal = { family = "Roboto Mono", style = "Regular" }
+ # normal = { family = "ComicShannsMono Nerd Font", style = "Regular" }
+# normal = { family = "M+1Code Nerd Font Mono", style = "Regular" }
+# normal = { family = "Mononoki Nerd Font Mono", style = "Regular" }
+# normal = { family = "Nimbus Mono PS", style = "Regular" }
+# normal = { family = "ProFont IIx Nerd Font Mono", style = "Regular" }
+# normal = { family = "Terminess Nerd Font Mono ", style = "Regular" }
+# normal = { family = "Roboto Mono", style = "Regular" }
+# normal = { family = "IBM Plex Mono ", style = "Regular" }
+# normal = { family = "BlexMono Nerd Font Mono", style = "Regular" }
+# normal = { family = "BlexMono Nerd Font Propo", style = "Regular" }
+# normal = { family = "BlexMono Nerd Font ", style = "Regular" }
